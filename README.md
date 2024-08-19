@@ -13,3 +13,8 @@ MFMP Replication of nuclear siphon device.
 - https://remoteview.substack.com/p/o-day-relentless
 - https://www.researchgate.net/publication/383093943_NUCLEAR_SIPHON
 - 
+
+## Implementation
+
+- One way Check valve, become hand driven startup pump.
+- Venturi where bubbles can form and collapse thus adding nuclear flow. 
