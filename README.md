@@ -30,3 +30,11 @@ So the biggest failure is the pumping mechanism, there was inadequate flow (Tric
 The next problem was the leaks around the venturi which were only observed when priming off the mains pressure.
 To Try Next, would be to build a better hand driven pump that can move a greater volume. 
 The other idea to try would be a sump pump and then turning this off to see if the flow can continue, however I normally have the venturi very close to the pump under water, I would need to place the check valve between the pump and venturi.
+
+#### Second
+
+![Attemp2](https://github.com/user-attachments/assets/c3c43075-9a89-446c-a6ce-6273cf92f994)
+
+Using some 22mm pipe and a marble and some seals another check valve was fabricated, The pumping was easier but still in the trickle range, So decided to go down the auxiallary pump route since it required too much effort to hand crank the pump. With improved seals and no leaks with end tap closed and auxillary pump on, the run was looking good, except Pump off flow stops! 
+Is the valve leaking too much?, is it too slow? 
+Do we have enough pressure to drive the venturi. 
