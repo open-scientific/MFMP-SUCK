@@ -38,3 +38,9 @@ The other idea to try would be a sump pump and then turning this off to see if t
 Using some 22mm pipe and a marble and some seals another check valve was fabricated, The pumping was easier but still in the trickle range, So decided to go down the auxiallary pump route since it required too much effort to hand crank the pump. With improved seals and no leaks with end tap closed and auxillary pump on, the run was looking good, except Pump off flow stops! 
 Is the valve leaking too much?, is it too slow? 
 Do we have enough pressure to drive the venturi. 
+
+## Alternatives
+
+- Plants/Trees
+- Capillary/Wick Action (Very slow method of moving water)
+- Ram Pumps (Requires a flow of water and Wastes more than it pumps)
