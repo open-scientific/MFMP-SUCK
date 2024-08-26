@@ -1,24 +1,24 @@
 # MFMP-SUCK
 MFMP Replication of nuclear siphon device.
 
+- Unless new information comes to light about the operation of a working device then the verdict here are the claims do not hold water. 
+
 ## Goals
 
-- Quickly determine if we can move any volume of water with the process described in the paper.
-- Discover a set of construction parameters and share with community.
-- Collate discovered parameters from the community.
-- 
+- [failed] Quickly determine if we can move any volume of water with the process described in the paper.
+- [failed] Discover a set of construction parameters and share with community.
+- [] Collate discovered parameters from the community.
 
 ## Resources
 
 - https://remoteview.substack.com/p/o-day-relentless
 - https://www.researchgate.net/publication/383093943_NUCLEAR_SIPHON
-- 
 
 ## Implementation
 
 - One way Check valve, become hand driven startup pump.
 - 1/2" Venturi where bubbles can form and collapse thus adding nuclear flow.
-- 15mm pipe
+- 15mm PEX pipe and fittings.
 
 ### Attempts
 
