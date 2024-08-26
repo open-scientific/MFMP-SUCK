@@ -44,3 +44,4 @@ Do we have enough pressure to drive the venturi.
 - Plants/Trees
 - Capillary/Wick Action (Very slow method of moving water)
 - Ram Pumps (Requires a flow of water and Wastes more than it pumps)
+- Venturi based emergency pumps (Requires mains pressure to drive vacuum for basement siphon)
